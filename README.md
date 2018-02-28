@@ -7,5 +7,6 @@ Hoewel ik wel eens met Git heb gespeeld had ik toch moeite met de version contro
 ## Snap je het nu wel?
 Waarschijnlijk niet, maar het is fijn om te weten dat ik ook online kan editen, zonder alles vanaf de computer te moeten doen
 
-# Branching
+## Branching
 Blijkbaar kan ik een 'tweede versie' actief houden naast de masterversie. En deze later weer integreren met de master als ik tevreden ben. Klinkt spannend. Geen idee of het werkt. Ik maak dit gewoon een branch, en we zien wel.
+Het lijkt te werken. Bij nader inzien vond ik subkop niveau 1 wel wat 'much' voor een branch-topic, dus dit is nu niveau 2.
